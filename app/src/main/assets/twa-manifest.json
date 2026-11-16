@@ -1,0 +1,9 @@
+{
+    "name": "NexChat",
+    "short_name": "NexChat",
+    "description": "End - To - End Encrypted Free Online Chatting App By KS.",
+    "start_url": "https://ksnexchat.pages.dev/app.html/",
+    "display": "fullscreen",
+    "orientation": "portrait",
+    "scope": "/"
+}
