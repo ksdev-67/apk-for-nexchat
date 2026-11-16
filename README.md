@@ -14,7 +14,7 @@ Generated Android Trusted Web Activity (TWA) project for **NexChat**.
 | Website URL | https://ksnexchat.pages.dev/app.html/ |
 | Verified host | ksnexchat.pages.dev |
 | Description | End - To - End Encrypted Free Online Chatting App By KS. |
-| Generated at | 2026-11-16 19:17:27 UTC |
+| Generated at | 2026-11-16 19:18:15 UTC |
 
 ## What This Project Contains
 
